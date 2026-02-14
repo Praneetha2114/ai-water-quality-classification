@@ -49,8 +49,36 @@ Model achieved ~69% accuracy on test data and showed strong detection of unsafe 
 - Jupyter Notebook
 - Azure ML (conceptual deployment)
 
+## Project Screenshots
+
+### Dataset Preview  
+![Dataset](screenshots/01_dataset_preview.png)
+
+### Preprocessing & Model  
+![Preprocessing](screenshots/02_preprocessing_and_model_code.png)
+
+### Accuracy Output  
+![Accuracy](screenshots/03_accuracy_output.png)
+
+### Confusion Matrix  
+![Confusion Matrix](screenshots/04_confusion_matrix.png)
+
+### Classification Report  
+![Report](screenshots/05_classification_report.png)
+
+### Feature Importance  
+![Feature Importance](screenshots/06_feature_importance_graph.png)
+
+### Sample Prediction  
+![Sample Prediction](screenshots/07_sample_prediction.png)
+
+
 ## How to Run
-Open the notebook and run all cells after placing the dataset CSV in the same folder.
+1. Clone repository  
+2. Place dataset CSV in this folder  
+3. Open `water_model.ipynb`  
+4. Run all notebook cells
+
 
 ## Author
 Praneetha M
